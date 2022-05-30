@@ -12,3 +12,6 @@
 2. 通過logstash將4個csv寫入Elasticsearch
 時間欄位轉換
 數字欄位轉換
+
+活動網誌 : https://www.accupass.com/event/2204061448029829370060
+成果文章 : https://blog.bimap.com.tw/2022/04/11/bimap-elk-%E9%BB%91%E5%AE%A2%E6%9D%BE
