@@ -1,7 +1,7 @@
 # Hackathon_ELK-Python
 
 數據驅動與集先鋒科技共同主辦的黑客松競賽
-Accupass競賽資訊 : https://www.accupass.com/event/2204061448029829370060
+Accupass競賽資訊 : https://www.accupass.com/event/2204061448029829370060  
 
 題目
 1. 將所提供的2天份Apache log檔,依照以下四點指示進行計算(必須用PYTHON!!)後各自產生一份CSV檔  
